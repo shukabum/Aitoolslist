@@ -1,5 +1,5 @@
 # Aitoolslist for Developers
-# here is the list of the usefull ai tools that makes life easy.
+### Here is the list of the usefull ai tools that makes life easy.
 # Enjoy 😉
 <p style={{display:"flex",text-decoration:"none"}}>
 1.<a href="https://magicstudio.com/magiceraser/" target="_blank"> Magic Eraser</a><br>
